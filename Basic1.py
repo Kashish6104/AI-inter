@@ -49,11 +49,11 @@
 # Tuple : ('3', ' 5', ' 7', ' 23')
 # sol:
 
-# nums = input("Enter numbers separated by comma: ")
-# l1 = nums.split(",")
-# print("List: ",l1)
-# t1 = tuple(l1)
-# print("Tuple: ",t1)
+nums = input("Enter numbers separated by comma: ")
+l1 = nums.split(",")
+print("List: ",l1)
+t1 = tuple(l1)
+print("Tuple: ",t1)
 
 
 # Write a Python program that accepts a filename from the user and prints the extension of the file.
